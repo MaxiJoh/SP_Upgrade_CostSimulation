@@ -71,5 +71,11 @@ public class Setup1Controller {
 
 
         // Add action listeners
+        this.jaegerButton.setOnAction(this::jaeger);
+    }
+
+    // Action Listeners
+    private void jaeger(ActionEvent event){
+
     }
 }
