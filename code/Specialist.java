@@ -1,4 +1,7 @@
+package code;
+
 public class Specialist {
+
     private String name;
     private int currentUpgrade;
 

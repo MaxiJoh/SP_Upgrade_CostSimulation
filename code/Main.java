@@ -1,4 +1,4 @@
-import java.util.Random;
+package code;
 
 public class Main {
     private Upgrade upgrade;

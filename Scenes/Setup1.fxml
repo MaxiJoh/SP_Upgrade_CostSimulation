@@ -162,7 +162,7 @@
                   </ImageView>
                </graphic>
             </Button>
-            <Button fx:id="DaemonjaegerButton" minWidth="45.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="45.0" style="-fx-background-color: white;" text=".">
+            <Button fx:id="daemonjaegerButton" minWidth="45.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="45.0" style="-fx-background-color: white;" text=".">
                <textFill>
                   <LinearGradient endX="1.0" endY="1.0">
                      <stops>
