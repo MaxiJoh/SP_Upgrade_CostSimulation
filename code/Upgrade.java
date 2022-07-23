@@ -1,5 +1,8 @@
 package code;
 
+import java.util.List;
+import java.util.Collections;
+
 public class Upgrade {
     private Specialist sp;
     private List<Item> items;

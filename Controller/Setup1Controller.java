@@ -71,11 +71,38 @@ public class Setup1Controller {
 
 
         // Add action listeners
-        this.jaegerButton.setOnAction(this::jaeger);
+        this.jaegerButton.setOnAction(this::sp1_4);
+        this.schurkeButton.setOnAction(this::sp1_4);
+        this.zerstoererButton.setOnAction(this::sp1_4);
+        this.wildhueterButton.setOnAction(this::sp1_4);
+        this.feuerkanonierButton.setOnAction(this::sp5_8);
+        this.spaeherButton.setOnAction(this::sp5_8);
+        this.daemonjaegerButton.setOnAction(this::sp5_8);
+        this.racheengelButton.setOnAction(this::sp5_8);
+        this.kriegerButton.setOnAction(this::sp1_4);
+        this.ninjaButton.setOnAction(this::sp1_4);
+        this.kreuzritterButton.setOnAction(this::sp1_4);
+        this.berserkerButton.setOnAction(this::sp1_4);
+        this.gladiatorButton.setOnAction(this::sp5_8);
+        this.kampfmoenchButton.setOnAction(this::sp5_8);
+        this.todesbringerButton.setOnAction(this::sp5_8);
+        this.abtruennigerButton.setOnAction(this::sp5_8);
+        this.feuermagierButton.setOnAction(this::sp1_4);
+        this.heiligermagierButton.setOnAction(this::sp1_4);
+        this.eismagierButton.setOnAction(this::sp1_4);
+        this.schattenmagierButton.setOnAction(this::sp1_4);
+        this.vulkanoButton.setOnAction(this::sp5_8);
+        this.gezeitenbaendigerButton.setOnAction(this::sp5_8);
+        this.seherButton.setOnAction(this::sp5_8);
+        this.erzmagierButton.setOnAction(this::sp5_8);
     }
 
     // Action Listeners
-    private void jaeger(ActionEvent event){
+    private void sp1_4(ActionEvent event){
+
+    }
+
+    private void sp5_8(ActionEvent event){
 
     }
 }
